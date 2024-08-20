@@ -5,7 +5,7 @@ module.exports = {
   networks: {
     swisstronik: {
       url: "https://json-rpc.testnet.swisstronik.com/",
-      accounts: ["special pole answer anchor client burger nut service stick sister scissors drum"],
+      accounts: [""],
     },
   },
 };
